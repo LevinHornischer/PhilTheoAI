@@ -5,4 +5,6 @@ Munich* as part of the *Master in Logic and Philosophy of Science*.
 
 The main files are the following:
 * 'phil-theo-ai.pdf' which is the reader for the course. It is updated as the course progresses.
-* 'formalities.pdf' which describes all the organizational details for the course.  
+* 'formalities.pdf' which describes all the organizational details for the course.
+* 'Schedule.md' which lists which reading is due for which week.
+ 
