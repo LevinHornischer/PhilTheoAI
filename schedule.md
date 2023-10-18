@@ -5,9 +5,9 @@ Full references for the readings are in the reader. The readings listed in the r
 Week | Date | Topic | Main reading | Secondary reading
 ---  | ---  | ---   | ---          | ---
 1 | 18 Oct | Introduction | - | -
-2 | 25 Oct | Intro to AI | Bowden 2016, ch. 1 & 4 | -  
+2 | 25 Oct | Intro to AI | Boden 2016, ch. 1 & 4; [playground.tensorflow.org](playground.tensorflow.org) | Buckner 2019, sec. 1 & 2  
 3 | 1 Nov  | *Holiday (Hallowmas)* | - | -
-4 | 8 Nov  | TBA |   | 
+4 | 8 Nov  | Intro to AI | Buckner 2019; Turing 1950 | 
 5 | 15 Nov | TBA |   | 
 6 | 22 Nov | TBA |   | 
 7 | 29 Nov | TBA |   | 
