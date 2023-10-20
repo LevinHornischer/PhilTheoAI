@@ -1,6 +1,6 @@
 # Coding Exercise Instructions
 
-The purpose of this exercise is to build an AI model---step by step and without any coding skills required---in order to get an idea what this process looks like.
+The purpose of this exercise is to build an AI model---step by step and without any coding experience required---in order to get an idea what this process looks like.
 
 The easiest (and very common) way to open the exercise and be able to run the code in it (without install anything) is to do it online here:
 
