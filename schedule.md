@@ -10,7 +10,7 @@ Week | Date | Topic | Main reading | Secondary reading
 4 | 8 Nov  | Intro to AI | Buckner 2019; Turing 1950; [coding exercise](CodingExercise) | -
 5 | 15 Nov | AI & Phil Mind | Bender & Koller 2020 | - 
 6 | 22 Nov | AI & Phil Mind | Smolensky 1988 | -
-7 | 29 Nov | AI & Epist/Phil Science | Korb 2004; Williamson 2004 | Freiesleben et al 2022 sec. 1-3
+7 | 29 Nov | AI & Epist/Phil Science | Korb 2004; Williamson 2004 | Freiesleben et al 2022, sec. 1-3
 8 | 6 Dec  | AI & Epist/Phil Science | Buckner forthcoming | - 
 9 | 13 Dec | TBA |   | 
 10| 20 Dec | TBA |   | 
