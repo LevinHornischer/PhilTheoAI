@@ -13,8 +13,8 @@ Week | Date | Topic | Main reading | Secondary reading
 7 | 29 Nov | AI & Phil Science | Korb 2004; Williamson 2004 | Freiesleben et al. 2022, sec. 1-3
 8 | 6 Dec  | AI & Epist | Buckner forthcoming | - 
 9 | 13 Dec | AI & Epist | Garcez & Lamb 2023  | -
-10| 20 Dec | TBA |   | 
-11| 10 Jan | TBA |   | 
+10| 20 Dec | AI & Ethics | Mitchell et al. 2021 | Gordon & Nyholm
+11| 10 Jan | AI & Ethics | Beigang 2023 | Schwöbel & Remmers 2022
 12| 17 Jan | TBA |   | 
 13| 24 Jan | TBA |   | 
 14| 31 Jan | TBA |   | 
