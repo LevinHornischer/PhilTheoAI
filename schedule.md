@@ -15,10 +15,10 @@ Week | Date | Topic | Main reading | Secondary reading
 9 | 13 Dec | AI & Epist | Garcez & Lamb 2023  | -
 10| 20 Dec | AI & Ethics | Mitchell et al. 2021 | Gordon & Nyholm
 11| 10 Jan | AI & Ethics | Beigang 2023 | Schwöbel & Remmers 2022
-12| 17 Jan | TBA |   | 
-13| 24 Jan | TBA |   | 
-14| 31 Jan | TBA |   | 
-15| 7 Feb  | TBA |   |  
+12| 17 Jan | Theory of AI | Sterkenburg & Grünwald 2021  | 
+13| 24 Jan | Theory of AI | Colbrook et al. 2022 | 
+14| 31 Jan | Reliable AI | Lipton 2018 | Mittelstadt et al. 2019
+15| 7 Feb  | Reliable AI | Freiesleben and Grote 2023 |  
 
 
 
