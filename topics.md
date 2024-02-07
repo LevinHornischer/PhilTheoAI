@@ -14,4 +14,4 @@ Overall, the topics aim for a fruitful interaction between philosophy and AI: us
 
 * In classical philosophy of AI (from the 1980s and 1990s), Gödel's Incompleteness Theorem played a crucial role for arguing for impossibilities for (symbolic) AI. (See [here](https://plato.stanford.edu/entries/artificial-intelligence/#GodeArguAgaiStroAI) for a brief overview.) Discuss and compare this to modern impossiblity result for machine learning like that of Colbrook et al. (2022, "The difficulty of computing stable and accurate neural networks")?
 
-* TBA
+* In an ideal case of interpretable AI, one can show how a neural network - that was trained to predict a real-world phenomenon - has learned a useful representation of this phenomenon from which it derives its predictions. Discuss how achievable this ideal case is. Specifically, does it even make sense to say that a neural network has ' representational capacities that are akin to mental representations' (Freiesleben & Grote 2023, footnote 4)?   
