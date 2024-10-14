@@ -1,8 +1,13 @@
-# Paper topics for Philosophy and Theory of AI
+# Essay topics for Philosophy and Theory of AI
+
+[Click here to get back to the course webpage](README.md).
+
+
+Here I collect some possible topics. This is still in progress: I might add more topics and update the present ones.
 
 ## Comments
 
-Here I collect some possible topics for your final essay. (I might also still add more and update the present ones.) Just to be sure, the suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please take a look at the grading criteria mentioned in the file [`formalities.pdf`](formalities.pdf) to get a clear idea of what a good essay is expected to look like. 
+Just to be sure, the suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please take a look at the grading criteria mentioned in the file [`formalities.pdf`](formalities.pdf) to get a clear idea of what a good essay is expected to look like. 
 
 Overall, the topics aim for a fruitful interaction between philosophy and AI: use philosophical theory to better understand AI models, and use AI models to concretely implement philosophical theories and thus empirically test them.
 
