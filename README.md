@@ -41,9 +41,9 @@ The schedule below describes in which week we will cover which material in the s
 Week | Date       | Chapter | Reading | Lecture 
 ---  | ---        | ---     | ---     | --- 
  1   | 17.10.2024 | Preface | -       | Intro to the course, coding exercise (introducing neural networks)
- 2   | 24.10.2024 | 1       | Boden 2016, ch. 1 & 4; [explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), ch. 1-4; [explainer videos](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3) as many as you like  | Key concepts from ch. 1 
- 3   | 31.10.2024 | TBA     | TBA     | TBA
- 4   | 07.11.2024 | TBA     | TBA     | TBA
+ 2   | 24.10.2024 | 1       | Boden 2016, ch. 1 & 4; [explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), ch. 1-4; [explainer videos](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3) as many as you like  | Results coding exercise, key concepts from ch. 1 
+ 3   | 31.10.2024 | 2       | Turing 1950, Bender & Koller 2020 | Turing test, octopus test
+ 4   | 07.11.2024 | 2       | Smolensky 1988     | connectionism & subsymbols
  5   | 14.11.2024 | TBA     | TBA     | TBA
  6   | 21.11.2024 | TBA     | TBA     | TBA
  7   | 28.11.2024 | TBA     | TBA     | TBA
