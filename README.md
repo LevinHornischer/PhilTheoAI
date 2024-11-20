@@ -45,8 +45,8 @@ Week | Date       | Chapter | Reading | Lecture
  3   | 31.10.2024 | 2       | Turing 1950, Bender & Koller 2020 | Turing test, octopus test
  4   | 07.11.2024 | -       | -       | _cancelled_
  5   | 14.11.2024 | 2       | Smolensky 1988 | connectionism & subsymbols
- 6   | 21.11.2024 | TBA     | TBA     | TBA
- 7   | 28.11.2024 | TBA     | TBA     | TBA
+ 6   | 21.11.2024 | 3       | Buckner 2023   | Empiricism vs rationalism in AI
+ 7   | 28.11.2024 | 4       | Freiesleben et al 2024 | Machine learning for scientific inference
  8   | 05.12.2024 | TBA     | TBA     | TBA
  9   | 12.12.2024 | TBA     | TBA     | TBA
 10   | 19.12.2024 | TBA     | TBA     | TBA
