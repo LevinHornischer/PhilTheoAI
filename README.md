@@ -47,7 +47,7 @@ Week | Date       | Chapter | Reading | Lecture
  5   | 14.11.2024 | 2       | Smolensky 1988 | connectionism & subsymbols
  6   | 21.11.2024 | 3       | Buckner 2023   | Empiricism vs rationalism in AI
  7   | 28.11.2024 | 4       | Freiesleben et al 2024 | Machine learning for scientific inference
- 8   | 05.12.2024 | TBA     | TBA     | TBA
+ 8   | 05.12.2024 | 5       | Millière & Buckner 2024, part 1 (all) and part 2 (sec. 1-2) | Philosophy of large language models
  9   | 12.12.2024 | TBA     | TBA     | TBA
 10   | 19.12.2024 | TBA     | TBA     | TBA
 11   | 09.01.2025 | TBA     | TBA     | TBA
