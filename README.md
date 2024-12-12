@@ -47,14 +47,14 @@ Week | Date       | Chapter | Reading | Lecture
  5   | 14.11.2024 | 2       | Smolensky 1988 | connectionism & subsymbols
  6   | 21.11.2024 | 3       | Buckner 2023   | Empiricism vs rationalism in AI
  7   | 28.11.2024 | 4       | Freiesleben et al 2024 | Machine learning for scientific inference (with first author as special guest)
- 8   | 05.12.2024 | 5       | Millière & Buckner 2024, part 1 | Philosophy of large language models
- 9   | 12.12.2024 | 5       | Millière & Buckner 2024, part 2 (especially sec. 2) | Philosophy of large language models
-10   | 19.12.2024 | TBA     | TBA     | TBA
-11   | 09.01.2025 | TBA     | TBA     | TBA
-12   | 16.01.2025 | TBA     | TBA     | TBA
-13   | 23.01.2025 | TBA     | TBA     | TBA
-14   | 30.01.2025 | TBA     | TBA     | TBA
-15   | 06.02.2025 | TBA     | TBA     | TBA
+ 8   | 05.12.2024 | 5       | Millière & Buckner 2024, part 1 | Philosophy of large language models, classical topics
+ 9   | 12.12.2024 | 5       | Millière & Buckner 2024, part 2 (especially sec. 2) | Philosophy of large language models, mechanistic interpretability
+10   | 19.12.2024 | 6       | Beigang 2023 | Ethics of AI, algorithmic fairness
+11   | 09.01.2025 | 7       | TBA     | Theory of AI 1: symbolic
+12   | 16.01.2025 | 7       | TBA     | Theory of AI 2: non-symbolic
+13   | 23.01.2025 | 8       | TBA     | Interpretable AI
+14   | 30.01.2025 | 8       | TBA     | Explainable AI
+15   | 06.02.2025 | -       | -   | Essay preparation session
 
 
 # Essay topic
