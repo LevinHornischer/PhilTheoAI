@@ -50,7 +50,7 @@ Week | Date       | Chapter | Reading | Lecture
  8   | 05.12.2024 | 5       | Millière & Buckner 2024, part 1 | Philosophy of large language models, classical topics
  9   | 12.12.2024 | 5       | Millière & Buckner 2024, part 2 (especially sec. 2) | Philosophy of large language models, mechanistic interpretability
 10   | 19.12.2024 | 6       | Mitchell et al. 2021 | Ethics of AI, algorithmic fairness
-11   | 09.01.2025 | 7       | TBA     | Theory of AI 1: symbolic
+11   | 09.01.2025 | 7       | [Immerman 2021](https://plato.stanford.edu/entries/computability/) | Theory of AI 1: symbolic
 12   | 16.01.2025 | 7       | TBA     | Theory of AI 2: non-symbolic
 13   | 23.01.2025 | 8       | TBA     | Interpretable AI
 14   | 30.01.2025 | 8       | TBA     | Explainable AI
