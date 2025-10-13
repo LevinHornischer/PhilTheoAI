@@ -1,5 +1,4 @@
-Welcome to the course _Philosophy and Theory of Artificial Intelligence_! It is given during the winter semester 2024/5 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
-
+Welcome to the course _Philosophy and Theory of Artificial Intelligence_! It is given during the winter semester 2025/26 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. (Past editions: winter 2023/24, winter 2024/25.)
 
 # Motivation 
 
@@ -9,7 +8,7 @@ Despite the tremendous technological progress of modern artificial intelligence,
 
 We have one session per week during the semester:
 
-1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 14:15 bis 15:45 in room 021 (Ludwigstr. 31). Below you find a schedule of when we cover which topic. 
+1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Wednesdays from 12:15 to 13:45 in room 021 (Ludwigstr. 31). Below you find a schedule of when we cover which topic. 
 
 
 # Lecture Notes
@@ -19,7 +18,7 @@ The lecture notes are updated as the course progresses. You find the latest edit
 
 # Coding Exercise
 
-To philosophize and theorize about AI models, it is—I think—essential to also practically see one. This is what this exercise is for: to build an AI model step by step and without any coding experience required. 
+To philosophize and theorize about AI models, it is—I think—essential to also practically see one. This is what this exercise is for: to build an AI model step by step and without any coding experience required. It also show-cases the 'machine learning pipeline': from task conceptualization to deployment of the trained model.
 
 The easiest (and very common) way to open the exercise and be able to run the code in it (without install anything) is to do it online here:
 
@@ -40,21 +39,21 @@ The schedule below describes in which week we will cover which material in the s
 
 Week | Date       | Chapter | Reading | Lecture 
 ---  | ---        | ---     | ---     | --- 
- 1   | 17.10.2024 | Preface | -       | Intro to the course, coding exercise (introducing neural networks)
- 2   | 24.10.2024 | 1       | Boden 2016, ch. 1 & 4; [explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), ch. 1-4; [explainer videos](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3) as many as you like  | Results coding exercise, key concepts from ch. 1 
- 3   | 31.10.2024 | 2       | Turing 1950, Bender & Koller 2020 | Turing test, octopus test
- 4   | 07.11.2024 | -       | -       | _cancelled_
- 5   | 14.11.2024 | 2       | Smolensky 1988 | connectionism & subsymbols
- 6   | 21.11.2024 | 3       | Buckner 2023   | Empiricism vs rationalism in AI
- 7   | 28.11.2024 | 4       | Freiesleben et al 2024 | Machine learning for scientific inference (with first author as special guest)
- 8   | 05.12.2024 | 5       | Millière & Buckner 2024, part 1 | Philosophy of large language models, classical topics
- 9   | 12.12.2024 | 5       | Millière & Buckner 2024, part 2 (especially sec. 2) | Philosophy of large language models, mechanistic interpretability
-10   | 19.12.2024 | 6       | Mitchell et al. 2021 | Ethics of AI, algorithmic fairness
-11   | 09.01.2025 | 7       | [Immerman 2021](https://plato.stanford.edu/entries/computability/) | Theory of AI 1: symbolic
-12   | 16.01.2025 | 7       | Shalev-Shwartz & Ben-David 2014, ch. 2, 3, and 5  | Theory of AI 2: non-symbolic
-13   | 23.01.2025 | 8       | Doshi-Velez & Kim 2017 | Interpretable AI (and finishing the bias-complexity tradeoff from the previous session)
-14   | 30.01.2025 | 8       | Miller 2019 | Explainable AI
-15   | 06.02.2025 | -       | -   | Essay preparation session
+ 1   | 15.10.2025 | Preface | -       | Intro to the course, coding exercise (introducing neural networks)
+ 2   | 22.10.2025 | TBA     | Boden 2016, ch. 1 & 4; [explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), ch. 1-4; [explainer videos](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3) as many as you like  | Results coding exercise, key concepts from ch. 1 
+ 3   | 29.10.2025 | TBA     | Turing 1950, Bender & Koller 2020 | Turing test, octopus test
+ 4   | 05.11.2025 | TBA     |         |
+ 5   | 12.11.2025 | TBA     |         |
+ 6   | 19.11.2025 | TBA     |         |
+ 7   | 26.11.2025 | TBA     |         |
+ 8   | 03.12.2025 | TBA     |         |
+ 9   | 10.12.2025 | TBA     |         |
+10   | 17.12.2025 | TBA     |         |
+11   | 07.01.2026 | TBA     |         |
+12   | 14.01.2026 | TBA     |         |
+13   | 21.01.2026 | TBA     |         |
+14   | 28.01.2026 | TBA     |         |
+15   | 04.02.2026 | -       | -       | Essay preparation session
 
 
 # Essay topic
