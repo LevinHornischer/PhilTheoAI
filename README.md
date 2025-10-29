@@ -29,7 +29,7 @@ But if you want to do this locally on your computer (which is more advanced), yo
 
 # Formalities
 
-All the organizational details for the course are described in this file: [`formalities.pdf`](formalities.pdf).
+All the organizational details for the course are described in this file: [`formalities.pdf`](formalities.pdf). Update (29 Oct 2025): When handing in your final paper, you also have to hand in the new, unified _declaration of authorship_ form. 
 
 
 # Schedule
