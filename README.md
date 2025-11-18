@@ -44,11 +44,11 @@ Week | Date       | Chapter | Reading | Lecture
  3   | 29.10.2025 | 2       | Turing 1950, Bender & Koller 2020 | Turing test, octopus test
  4   | 05.11.2025 | 2       | Smolensky 1988, pp. 1-23 | symbolic vs connectionist AI
  5   | 12.11.2025 | 3       | Buckner 2023; optional: Garces & Lamb (2023) | Empiricist vs rationalist epistemology for AI 
- 6   | 19.11.2025 | 5       | Millière & Buckner 2024a; optional: videos on LLMs, parts 5-7 [here](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | How LLMs inform classical philosophy of language
- 7   | 26.11.2025 | 5       | Millière & Buckner 2024b | How phil lang motivates further questions about LLMs
- 8   | 03.12.2025 | 6       | Mitchell et al. 2021; optional: Beigang 2023 | Algorithmic fairness
+ 6   | 19.11.2025 | -       | Cancelled | 
+ 7   | 26.11.2025 | 5       | Millière & Buckner 2024a; optional: videos on LLMs, parts 5-7 [here](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | How LLMs inform classical philosophy of language
+ 8   | 03.12.2025 | 5       | Millière & Buckner 2024b | How phil lang motivates further questions about LLMs
  9   | 10.12.2025 | 4       | Freiesleben, König, et al. 2024; optional: Sullivan 2022 | Using ML for science? With first author.
-10   | 17.12.2025 | TBA     |         |
+10   | 17.12.2025 | 6       | Mitchell et al. 2021; optional: Beigang 2023 | Algorithmic fairness
 11   | 07.01.2026 | TBA     |         |
 12   | 14.01.2026 | TBA     |         |
 13   | 21.01.2026 | TBA     |         |
