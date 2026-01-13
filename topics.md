@@ -38,6 +38,7 @@ Please take a look at the file [`formalities.pdf`](formalities.pdf) for requirem
    Geiger et al. (2025, "Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability") provide a precise general framework to bridge the micro-level and the macro-level in terms of causal models. Discuss this approach by relating to the philosophical literature on explanatory levels as, e.g., presented in this recent edited [book](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780192862945.pdf) and, in particular, in the first paper in there by List (which is also [here](https://philarchive.org/archive/LISLOD)). Make sure to think of ways to test your claims in concrete tasks and neural networks. 
 
 
+
 ## Example
 
 As an example of a paper that covers the required steps, you can consider Geiger et al. (2025, "Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability"). Note, though, that it is much more comprehensive than what would be required for an essay. So this is just for illustration, not to be followed very closely. Very briefly, the idea is this:
