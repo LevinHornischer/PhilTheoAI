@@ -49,10 +49,10 @@ Week | Date       | Chapter | Reading | Lecture
  8   | 03.12.2025 | 5       | Millière & Buckner 2024b | How phil lang motivates further questions about LLMs
  9   | 10.12.2025 | 4       | Freiesleben, König, et al. 2024; optional: Sullivan 2022 | Using ML for science? With first author.
 10   | 17.12.2025 | 6       | Mitchell et al. 2021; optional: Beigang 2023 | Algorithmic fairness
-11   | 07.01.2026 | TBA     |         |
-12   | 14.01.2026 | TBA     |         |
-13   | 21.01.2026 | TBA     |         |
-14   | 28.01.2026 | TBA     |         |
+11   | 07.01.2026 | 7       | Immerman 2021 & lecture notes |
+12   | 14.01.2026 | 7       | Shalev-Shwartz & Ben-David 2014, ch. 2, 3, 5 |
+13   | 21.01.2026 | 8       |         |
+14   | 28.01.2026 | 8       |         |
 15   | 04.02.2026 | -       | -       | Essay preparation session
 
 
