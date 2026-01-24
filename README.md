@@ -52,7 +52,7 @@ Week | Date       | Chapter | Reading | Lecture
 11   | 07.01.2026 | 7       | Immerman 2021 & lecture notes | Computability theory
 12   | 14.01.2026 | 7       | Shalev-Shwartz & Ben-David 2014, ch. 2, 3, 5 | Comp. theory continued, statistical learning theory
 13   | 21.01.2026 | 8       | Doshi-Velez and Kim 2017 | statistical learning theory continued, interpretability 
-14   | 28.01.2026 | 8       | [Geiger et al. 2025](https://jmlr.org/papers/volume26/23-0058/23-0058.pdf), sec. 1-2 (and more if you like) | Mechanistic interpretability
+14   | 30.01.2026 | 8       | [Geiger et al. 2025](https://jmlr.org/papers/volume26/23-0058/23-0058.pdf), sec. 1-2 (and more if you like) | Mechanistic interpretability
 15   | 04.02.2026 | -       | -       | Essay preparation session
 
 
